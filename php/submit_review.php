@@ -1,8 +1,16 @@
 <?php
+// SQs8rxBq4AAFFnp
 // Database connection
+//dev
+// $host = "localhost";
+// $user = "root";
+// $password = "root";
+// $database = "review_system";
+
+//prod
 $host = "localhost";
-$user = "root";
-$password = "root";
+$user = "joeroote_admin";
+$password = "SQs8rxBq4AAFFnp";
 $database = "review_system";
 
 // Create connection
