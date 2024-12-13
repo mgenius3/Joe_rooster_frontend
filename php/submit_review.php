@@ -11,7 +11,7 @@
 $host = "localhost";
 $user = "joeroote_admin";
 $password = "SQs8rxBq4AAFFnp";
-$database = "review_system";
+$database = "joeroote_review_system";
 
 // Create connection
 $conn = new mysqli($host, $user, $password, $database);

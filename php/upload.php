@@ -10,7 +10,7 @@
 $host = "localhost";
 $user = "joeroote_admin";
 $password = "SQs8rxBq4AAFFnp";
-$dbname = "gallery";
+$dbname = "joeroote_gallery";
 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
